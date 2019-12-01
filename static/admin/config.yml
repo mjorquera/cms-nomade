@@ -21,6 +21,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
+        allow_add: true
       - label: "Tags"
         name: "tags"
         widget: "list"
