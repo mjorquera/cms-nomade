@@ -46,19 +46,34 @@ disqusShortname = ""
   
   # main menu
   [[menu.main]]
-  name = "About"
-  URL = "about/about"
+  name = "Inicio"
+  URL = "http://nomadexperiencechile.com/"
+  weight = 1
+
+  [[menu.main]]
+  name = "La Experiencia"
+  URL = "http://nomadexperiencechile.com/experience.html"
   weight = 2
-  
+
   [[menu.main]]
-  name = "Post"
-  URL = "blog"
+  name = "Nómade"
+  URL = "http://nomadexperiencechile.com/#about"
   weight = 3
+
+  [[menu.main]]
+  name = "Sostenibilidad"
+  URL = "http://nomadexperiencechile.com/#sustainability"
+  weight = 4
   
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 4
+  name = "Amakáik"
+  URL = "http://nomadexperiencechile.com/#boat"
+  weight = 5
+  
+  [[menu.main]]
+  name = "Reserva Ahora"
+  URL = "http://nomadexperiencechile.com/#contact"
+  weight = 6
 
   # footer menu
   [[menu.footer]]
@@ -80,7 +95,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Blog"
 # Meta data
 description = "Tour increíble por el Glaciar Laguna San Rafael. Atrévete a vivir una experiencia nómade en un tour full day a Laguna San Rafael y conoce uno de los glaciares más imponentes del mundo en la Patagonia Chilena. Conoce la experiencia aquí."
 author = "Nomade Experience"
