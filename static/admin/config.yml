@@ -32,7 +32,6 @@ collections:
         widget: "list"
         allow_add: true
         default: ["noticias"]
-        options: ["noticias","tips", "datos", "natuuraleza","laguna"]
       - label: "Cover Image"
         name: "image"
         required: false
