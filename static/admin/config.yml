@@ -20,11 +20,10 @@ collections:
       - label: "Post Type"
         name: "type"
         widget: "select"
-        options: ["featured","post"]
+        options: ["featured", "post"]
         default: ["featured"]
       - label: "Categories"
         name: "categories"
-        required: false
         widget: "list"
         allow_add: true
       - label: "Tags"
