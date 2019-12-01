@@ -17,6 +17,11 @@ collections:
         name: "date"
         required: false
         widget: "datetime"
+      - label: "Post Type"
+        name: "type"
+        widget: "select"
+        default: ["featured"]
+        options: ["featured","post"]
       - label: "Categories"
         name: "categories"
         required: false
