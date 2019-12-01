@@ -1,0 +1,4 @@
+baseURL = "http://blog.nomadexperiencechile.com/"
+languageCode = "es-cl"
+title = "Nomade Experience Chile"
+theme = "hugo-theme-dream"
