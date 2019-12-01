@@ -49,8 +49,6 @@ Dificultad baja, apta para todo tipo de personas.
 
 ## ¿Qué traer?
 
-![Equipamiento](/img/uploads/equipment.png)
-
 * Cámara o celular cargados
 * Vestimenta apropiada para el día de actividad
 * Lentes
