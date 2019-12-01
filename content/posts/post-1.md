@@ -1,6 +1,7 @@
 ---
 title: How To Use Checklists To Improve Your UX
 date: 2019-10-29T04:07:47.000Z
+type: featured
 categories:
   - Android And Gmaing
 tags:
