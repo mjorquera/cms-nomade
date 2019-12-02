@@ -45,10 +45,6 @@ disqusShortname = ""
 [menu]
   
   # main menu
-  [[menu.main]]
-  name = "Inicio"
-  URL = "https://nomadexperiencechile.com/"
-  weight = 1
 
   [[menu.main]]
   name = "La Experiencia"
@@ -56,20 +52,15 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Nómade"
-  URL = "http://nomadexperiencechile.com/#about"
-  weight = 3
-
-  [[menu.main]]
   name = "Sostenibilidad"
   URL = "http://nomadexperiencechile.com/#sustainability"
   weight = 4
   
   [[menu.main]]
-  name = "Amakáik"
-  URL = "http://nomadexperiencechile.com/#boat"
+  name = "Noticias"
+  URL = "https://nomadexperiencechile.com/"
   weight = 5
-  
+
   [[menu.main]]
   name = "Reserva Ahora"
   URL = "http://nomadexperiencechile.com/#contact"
