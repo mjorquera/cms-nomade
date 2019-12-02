@@ -60,11 +60,6 @@ disqusShortname = ""
   name = "Sostenibilidad"
   URL = "http://nomadexperiencechile.com/#sustainability"
   weight = 4
-  
-  [[menu.main]]
-  name = "Noticias"
-  URL = "https://nomadexperiencechile.com/"
-  weight = 5
 
   [[menu.main]]
   name = "Reserva Ahora"
