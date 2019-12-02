@@ -48,7 +48,7 @@ disqusShortname = ""
 
  [[menu.main]]
   name = "Home"
-  URL = "http://nomadexperiencechile.com/"
+  URL = "https://nomadexperiencechile.com/"
   weight = 1
 
   [[menu.main]]
