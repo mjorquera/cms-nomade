@@ -46,6 +46,11 @@ disqusShortname = ""
   
   # main menu
 
+ [[menu.main]]
+  name = "Home"
+  URL = "http://nomadexperiencechile.com/"
+  weight = 1
+
   [[menu.main]]
   name = "La Experiencia"
   URL = "http://nomadexperiencechile.com/experience.html"
@@ -86,7 +91,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Blog"
+home = "Noticias"
 # Meta data
 description = "Tour increíble por el Glaciar Laguna San Rafael. Atrévete a vivir una experiencia nómade en un tour full day a Laguna San Rafael y conoce uno de los glaciares más imponentes del mundo en la Patagonia Chilena. Conoce la experiencia aquí."
 author = "Nomade Experience"
