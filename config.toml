@@ -1,4 +1,4 @@
-baseURL = "http://blog.nomadexperiencechile.com/"
+baseURL = "https://blog.nomadexperiencechile.com/"
 languageCode = "es-cl"
 title = "Laguna San Rafael - Nomade Experience Chile"
 theme = "liva"
@@ -53,17 +53,17 @@ disqusShortname = ""
 
   [[menu.main]]
   name = "La Experiencia"
-  URL = "http://nomadexperiencechile.com/experience.html"
+  URL = "https://nomadexperiencechile.com/experience.html"
   weight = 2
 
   [[menu.main]]
   name = "Sostenibilidad"
-  URL = "http://nomadexperiencechile.com/#sustainability"
+  URL = "https://nomadexperiencechile.com/#sustainability"
   weight = 4
 
   [[menu.main]]
   name = "Reserva Ahora"
-  URL = "http://nomadexperiencechile.com/#contact"
+  URL = "https://nomadexperiencechile.com/#contact"
   weight = 6
 
   # footer menu
