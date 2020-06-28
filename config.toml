@@ -52,7 +52,7 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "La Experiencia"
+  name = "Datos Útiles"
   URL = "https://nomadexperiencechile.com/experience.html"
   weight = 2
 
