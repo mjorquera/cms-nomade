@@ -1,7 +1,7 @@
 ---
 title: En que consiste la Experiencia Nómade por la Laguna San Rafael
 date: 2019-12-01T22:37:16.101Z
-type: featured
+type: post
 categories:
   - Experiencia
 tags:
